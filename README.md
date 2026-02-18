@@ -17,6 +17,14 @@ Chipped adds 7 decorative workbenches to Minecraft, each with hundreds of block 
 - Client-side only — no server installation required
 - Lightweight with no performance overhead
 
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 29 42" src="https://github.com/user-attachments/assets/a96a3125-a7e8-4cd5-ad45-5049d5901aa8" />
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 35 58" src="https://github.com/user-attachments/assets/cdcc227d-ba1c-46de-be6f-1c9171b92e37" />
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 49 18" src="https://github.com/user-attachments/assets/cef68ac3-98d0-4505-9848-6912351b582e" />
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 52 12" src="https://github.com/user-attachments/assets/1ffe1484-2b40-4026-b1bf-544f4b8b12ce" />
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 54 54" src="https://github.com/user-attachments/assets/bfa67be3-1332-4bc5-8a1c-331da2300815" />
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 57 39" src="https://github.com/user-attachments/assets/427c2811-e21f-4462-9741-f439061c7287" />
+<img width="2560" height="1440" alt="Minecraft Screenshot 2026 02 18 - 13 45 59 54" src="https://github.com/user-attachments/assets/3cbe9941-d792-49e1-9984-f4871795eca5" />
+
 ## Requirements ✅
 
 | Dependency | Version |

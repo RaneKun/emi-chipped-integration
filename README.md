@@ -1,4 +1,4 @@
-# EMI Chipped Integration
+# EMI Chipped Integration 🔍
 
 A Fabric mod for Minecraft 1.20.1 that bridges **Chipped** and **EMI**, displaying all Chipped workbench recipes directly in the EMI recipe viewer.
 
@@ -6,18 +6,18 @@ A Fabric mod for Minecraft 1.20.1 that bridges **Chipped** and **EMI**, displayi
 
 ---
 
-## Description
+## Description 📝
 
 Chipped adds 7 decorative workbenches to Minecraft, each with hundreds of block variant recipes. This mod registers all of those recipes into EMI so you can browse, look up, and plan crafting without ever opening a workbench.
 
-## Features
+## Features ⭐
 
 - Displays recipes for all 7 Chipped workbenches in EMI
 - Full recipe lookup — click any Chipped output item to see how to make it
 - Client-side only — no server installation required
 - Lightweight with no performance overhead
 
-## Requirements
+## Requirements ✅
 
 | Dependency | Version |
 |---|---|
@@ -27,7 +27,7 @@ Chipped adds 7 decorative workbenches to Minecraft, each with hundreds of block 
 | EMI | ≥ 1.1.0 |
 | Chipped | ≥ 3.0.0 |
 
-## Installation
+## Installation 💿
 
 1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 1.20.1
 2. Download and place the following mods in your `mods/` folder:
@@ -36,7 +36,7 @@ Chipped adds 7 decorative workbenches to Minecraft, each with hundreds of block 
    - This mod (`emi-chipped-1.0.0.jar`)
 3. Launch the game — Chipped workbench recipes will appear in EMI automatically
 
-## Credits
+## Credits 🎓
 
 This mod is built on top of two excellent mods:
 
@@ -45,6 +45,6 @@ This mod is built on top of two excellent mods:
 
 Full credit for the underlying systems goes to the authors of these two mods. This integration mod simply connects them together.
 
-## License
+## License ✒️
 
 MIT License — see [LICENSE](LICENSE) for details.
